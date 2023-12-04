@@ -1,4 +1,4 @@
-# Job listings with filtering
+# Job listing with filtering
 
 Solution for Frontend Mentor Challenge (https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
