@@ -12,3 +12,6 @@ Solution for Frontend Mentor Challenge (https://www.frontendmentor.io/challenges
 - Tailwind CSS
 
 
+## Live 
+
+https://job-listing28.netlify.app/
